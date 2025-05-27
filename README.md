@@ -27,8 +27,11 @@ This lab focuses on analyzing a network capture (PCAP) file to determine whether
 The traffic spike was identified and analyzed using Wireshark and correlated with endpoint communication using Network Miner. Based on the data flow and service communication, no concrete evidence of malicious activity was confirmed. However, the spike in traffic suggests the need for further behavioral baselining.
 
 ## 📎 Files
--[Click here to view the lab report (PDF)](Okuyiga_qvj870_3523_lab01.pdf)
-- `ISCS-3523-Event Analysis Lab 1.pdf`: Original lab instructions
+## 📂 Project Files
+
+- 📄 [Lab Instructions (PDF)](ISCS-3523_Event_Analysis_Lab_1.pdf)
+- 📄 [My Full Analysis Report (PDF)](Okuyiga_qvj870_3523_lab01.pdf)
+
 
 ## 📚 References
 - SimSpace Cyber Range
