@@ -26,7 +26,6 @@ This lab focuses on analyzing a network capture (PCAP) file to determine whether
 ## 🧠 Summary
 The traffic spike was identified and analyzed using Wireshark and correlated with endpoint communication using Network Miner. Based on the data flow and service communication, no concrete evidence of malicious activity was confirmed. However, the spike in traffic suggests the need for further behavioral baselining.
 
-## 📎 Files
 ## 📂 Project Files
 
 - 📄 [Lab Instructions (PDF)](ISCS-3523_Event_Analysis_Lab_1.pdf)
