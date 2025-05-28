@@ -28,8 +28,8 @@ The traffic spike was identified and analyzed using Wireshark and correlated wit
 
 ## 📂 Project Files
 
-- 📄 [Lab Instructions (PDF) - [ISCS_3523_Lab 4 Attack Analysis (1).pdf](https://github.com/user-attachments/files/20493537/ISCS_3523_Lab.4.Attack.Analysis.1.pdf)
-- 📄 [My Full Analysis Report (PDF) - [Okuyiga_qvj870_3523_lab01.pdf](https://github.com/user-attachments/files/20493615/Okuyiga_qvj870_3523_lab01.pdf)
+- 📄 Lab Instructions (PDF) - [ISCS_3523_Lab 4 Attack Analysis (1).pdf](https://github.com/user-attachments/files/20493537/ISCS_3523_Lab.4.Attack.Analysis.1.pdf)
+- 📄 My Full Analysis Report (PDF) - [Okuyiga_qvj870_3523_lab01.pdf](https://github.com/user-attachments/files/20493615/Okuyiga_qvj870_3523_lab01.pdf)
 
 
 ## 📚 References
